@@ -1,0 +1,47 @@
+.hi {
+    
+    font-family: nimbus-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: nimbus-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #363A3F;
+    
+}
+
+
+
+
+.About {
+    
+    background-color: #ffffff;
+    color: #363A3F;
+    padding-left: 240px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: nimbus-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+      
+}
+
+.paragraph1 {
+    
+    background-color: #ffffff;
+    color: #565B64;
+    padding-left: 400px;
+    padding-right:800px;
+    padding-top: px;
+    padding-bottom: 5px;
+    font-family: nimbus-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:  13px;
+    
+}
+
